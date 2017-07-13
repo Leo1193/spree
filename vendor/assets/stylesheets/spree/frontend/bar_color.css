@@ -1,0 +1,32 @@
+#default{
+	color:white;
+	font-family: Lucida Calligraphy;
+	background-color: black;
+}
+.breadcrumb{
+	background-color: grey;
+}
+
+#spree-header{
+	background: grey;
+}
+#home-page{
+	color:white;
+	font-family: Lucida Calligraphy;
+	background-color: black;
+
+}
+.panel-body{
+	background-color: grey;
+}
+.panel-footer{
+	background-color: black;
+}
+.a.list-group-item{
+	background-color: grey;
+	color: black;
+}
+.list-group-item{
+	background-color: grey;
+	color: black;
+}
